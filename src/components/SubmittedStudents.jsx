@@ -139,7 +139,7 @@ const SubmittedStudents = () => {
   <body>
     <div class="letter-container">
       <div class="letter-header">
-        <img src="/tuu.png" alt="University Logo" class="logo" />
+        <img src="${window.location.origin}/tuu.png" alt="University Logo" class="logo" />
         <div class="uni-info">
           <h1>THE UNITY UNIVERSITY</h1>
           <h2>ADMISSION LETTER</h2>
