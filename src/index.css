@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Make select dropdown options visible on dark glass background */
+select option {
+  background-color: #1e293b;
+  color: #f1f5f9;
+}
+
